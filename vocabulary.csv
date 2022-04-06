@@ -4,7 +4,6 @@ lavender_dog.jpg,Dog,D
 lavender_dog.jpg,Labrador,L
 lavender_dog.jpg,Puppy,P
 lavender_dog.jpg,Lavender,L
-lavender_dog.jpg,Dog,D
 lavender_dog.jpg,Fields,F
 lavender_dog.jpg,Basket,B
 lavender_dog.jpg,Animal,A
@@ -19,6 +18,10 @@ chirstmas2.jpg,Hearth,H
 chirstmas2.jpg,Decorations,D
 chirstmas2.jpg,Red,R
 chirstmas2.jpg,Candles,C
+pride.jpg,Diversity,D
+pride.jpg,Inclusion,I
+pride.jpg,Ally,A
+pride.jpg,Equality,E
 pride.jpg,Pride,P
 pride.jpg,Love,L
 pride.jpg,Finger,F
@@ -48,6 +51,7 @@ pencils.jpg,School,S
 pencils.jpg,Crayons,C
 pencils.jpg,Creative,C
 pencils.jpg,Drawing,D
+piggy_bank.jpg,Frugal,F
 piggy_bank.jpg,Saving,S
 piggy_bank.jpg,Piggy Bank,P
 piggy_bank.jpg,Money,M
@@ -84,6 +88,7 @@ football_stadium.jpg,Soccer,S
 football_stadium.jpg,Stadium,S
 football_stadium.jpg,Fans,F
 football_stadium.jpg,Crowd,C
+football_stadium.jpg,World Cup,W
 football_stadium.jpg,Arsenal,A
 football_stadium.jpg,Liverpool,L
 football_stadium.jpg,Manchester,M
@@ -97,6 +102,7 @@ football_stadium.jpg,Tottenham,T
 football_stadium.jpg,Pele,P
 football_stadium.jpg,Ronaldo,R
 football_stadium.jpg,Ziddane,Z
+tulips.jpg,Fragrance,F
 tulips.jpg,Tulips,T
 tulips.jpg,Flowers,F
 tulips.jpg,Colors,C
@@ -220,6 +226,7 @@ laptop.jpg,Plant,P
 laptop.jpg,Pen,P
 laptop.jpg,Desk,D
 laptop.jpg,Keyboard,K
+friends_eating.jpg,Nibble,N
 friends_eating.jpg,Dinner,D
 friends_eating.jpg,Friends,F
 friends_eating.jpg,Burger,B
@@ -248,6 +255,13 @@ berry_smoothie.jpg,Refreshing,R
 berry_smoothie.jpg,Healthy,H
 berry_smoothie.jpg,Glass,G
 berry_smoothie.jpg,Pink,P
+iphone.jpg,Unlock,U
+iphone.jpg,Android,A
+iphone.jpg,Camera,C
+iphone.jpg,Screen,S
+iphone.jpg,Charger,C
+iphone.jpg,Messaging,M
+iphone.jpg,Music,M
 iphone.jpg,Apps,A
 iphone.jpg,Games,G
 iphone.jpg,Phone,P
@@ -255,7 +269,6 @@ iphone.jpg,Apple,A
 iphone.jpg,Samsung,S
 iphone.jpg,Nokia,N
 iphone.jpg,Whatsapp,W
-iphone.jpg,Music,M
 iphone.jpg,Computer,C
 iphone.jpg,Organizer,O
 iphone.jpg,Notes,N
@@ -281,6 +294,7 @@ kids_in_beach.jpg,Ocean,O
 kids_in_beach.jpg,People,P
 kids_in_beach.jpg,Ship,S
 kids_in_beach.jpg,Shadow,S
+royal_guards.jpg,March,M
 royal_guards.jpg,Red,R
 royal_guards.jpg,Black,B
 royal_guards.jpg,Trumpet,T
@@ -296,6 +310,7 @@ royal_guards.jpg,Windsor Castle,W
 royal_guards.jpg,Buckingham Palace,B
 royal_guards.jpg,Palace,P
 royal_guards.jpg,Sentry,S
+ice_cream2.jpg,Indulgence,I
 ice_cream2.jpg,Ice Cream,I
 ice_cream2.jpg,Berries,B
 ice_cream2.jpg,Flavours,F
@@ -309,15 +324,18 @@ ice_cream2.jpg,Scoop,S
 ice_cream2.jpg,Yummy,Y
 ice_cream2.jpg,Dessert,D
 ice_cream2.jpg,Honeycomb,H
-cats2.jpg,Cats,C
-cats2.jpg,Basket,B
+cats2.jpg,Clowder,C
+cats2.jpg,Outdoor,O
 cats2.jpg,Animals,A
 cats2.jpg,Kitten,K
+cats2.jpg,Cats,C
+cats2.jpg,Basket,B
 cats2.jpg,Fur,F
 cats2.jpg,Four,F
 cats2.jpg,Garden,G
 cats2.jpg,Mammal,M
 cats2.jpg,Domestic,D
+fireworks2.jpg,Night,N
 fireworks2.jpg,Fireworks,F
 fireworks2.jpg,Crackers,C
 fireworks2.jpg,Diwali,D
@@ -338,6 +356,7 @@ violin_music.jpg,Music,M
 violin_music.jpg,Concert,C
 violin_music.jpg,School,S
 violin_music.jpg,Notes,N
+violin_music.jpg,Opera,O
 violin_music.jpg,Orchestra,O
 violin_music.jpg,Sound,S
 violin_music.jpg,Performance,P
@@ -346,6 +365,8 @@ violin_music.jpg,Conductor,C
 violin_music.jpg,Major,M
 violin_music.jpg,Rhythm,R
 violin_music.jpg,Symphony,S
+windmill.jpg,Tower,T
+windmill.jpg,Turbine,T
 windmill.jpg,Windmill,W
 windmill.jpg,Countryside,C
 windmill.jpg,Farm,F
@@ -356,6 +377,7 @@ windmill.jpg,Green,G
 windmill.jpg,Azure,A
 windmill.jpg,Sky,S
 windmill.jpg,Clouds,C
+moscow.jpg,Babushka,B
 moscow.jpg,Moscow,M
 moscow.jpg,St. Basil's Cathedral,S
 moscow.jpg,Architecture,A
@@ -391,13 +413,18 @@ rugby2.jpg,Tackle,T
 rugby2.jpg,Sport,S
 rugby2.jpg,Teams,T
 rugby2.jpg,Foul,F
-rugby2.jpg,Foul,F
 rugby2.jpg,Drop Kick,D
 rugby2.jpg,Kick off,K
 rugby2.jpg,Goal,G
 rugby2.jpg,Players,P
 rugby2.jpg,Offside,O
 rugby2.jpg,Penalty,P
+grandma.jpg,Tap,T
+grandma.jpg,Washing,W
+grandma.jpg,Chores,C
+grandma.jpg,Elderly,E
+grandma.jpg,Woman,W
+grandma.jpg,Lady,L
 grandma.jpg,Grandma,G
 grandma.jpg,Carrots,C
 grandma.jpg,Vegetables,V
@@ -411,9 +438,10 @@ grandma.jpg,Apron,A
 grandma.jpg,Plant,P
 grandma.jpg,Wrinkled Skin,W
 grandma.jpg,Bowl,B
+eclipse.jpg,Ring,R
+eclipse.jpg,Solar,S
 eclipse.jpg,Eclipse,E
 eclipse.jpg,Lunar,L
-eclipse.jpg,Solar,S
 eclipse.jpg,Moon,M
 eclipse.jpg,Sun,S
 eclipse.jpg,Earth,E
@@ -425,7 +453,6 @@ universe.jpg,Stars,S
 universe.jpg,Milky Way,M
 universe.jpg,Big Bang,B
 universe.jpg,Andromeda,A
-universe.jpg,Milky Way,M
 universe.jpg,Cosmos,C
 universe.jpg,Celestial,C
 eclipse.jpg,Penumbra,P
@@ -503,7 +530,6 @@ veggies2.jpg,Salad,S
 veggies2.jpg,Tomato,T
 veggies2.jpg,Vitamins,V
 veggies2.jpg,Protein,P
-veggies2.jpg,Salad,S
 space_astronaut_copy.jpg,Space,S
 space_astronaut_copy.jpg,Astronaut,A
 space_astronaut_copy.jpg,NASA,N
@@ -540,7 +566,6 @@ crypto.jpg,Volatile,V
 crypto.jpg,Ripple,R
 crypto.jpg,Solana,S
 crypto.jpg,Cardano,C
-crypto.jpg,Ripple,R
 coffee_beans.jpg,Coffee,C
 coffee_beans.jpg,Beans,B
 coffee_beans.jpg,Mocha,M
@@ -602,6 +627,7 @@ fruits.jpg,Lemon,L
 fruits.jpg,Yellow,Y
 fruits.jpg,Juice,J
 fruits.jpg,Pulp,P
+cars.jpg,Porsche,P
 cars.jpg,Cars,C
 cars.jpg,Speed,S
 cars.jpg,Ignition,I
@@ -635,3 +661,76 @@ egypt_camel.jpg,Pyramids,P
 egypt_camel.jpg,Giza,G
 egypt_camel.jpg,Sphinx,S
 egypt_camel.jpg,Unique,U
+wedding_rings.jpg,Dictionary,D
+wedding_rings.jpg,Circular,C
+wedding_rings.jpg,Couple,C
+wedding_rings.jpg,Occasion,O
+wedding_rings.jpg,Celebration,C
+pizza.jpg,Pizza,P
+pizza.jpg,Cheese,C
+pizza.jpg,Toppings,T
+pizza.jpg,Mushroom,M
+pizza.jpg,Dough,D
+pizza.jpg,Knead,K
+pizza.jpg,Italy,I
+pizza.jpg,Knife,K
+pizza.jpg,Share,S
+pizza.jpg,Tomato,T
+pizza.jpg,Sauce,S
+pizza.jpg,Onion,O
+pizza.jpg,Oven,O
+pizza.jpg,Fork,F
+pizza.jpg,Margherita,M
+pizza.jpg,Base,B
+pizza.jpg,Piece,P
+pizza.jpg,Crust,C
+pizza.jpg,Dinner,D
+pizza.jpg,Lunch,L
+pills.jpg,Pills,P
+pills.jpg,Tablets,T
+pills.jpg,Capsules,C
+pills.jpg,Medicine,M
+pills.jpg,Doctor,D
+pills.jpg,Hospital,H
+pills.jpg,Illness,I
+pills.jpg,Round,R
+pills.jpg,Pharmacy,P
+pills.jpg,Prescription,P
+athelete.jpg,Athlete,A
+athelete.jpg,Running,R
+athelete.jpg,Marathon,M
+athelete.jpg,Race,R
+athelete.jpg,Olympics,O
+athelete.jpg,Foul Start,F
+athelete.jpg,Disqualify,D
+athelete.jpg,Stretch,S
+athelete.jpg,Track,T
+athelete.jpg,Women,W
+athelete.jpg,Relay,R
+athelete.jpg,Gold Medal,G
+athelete.jpg,Silver Medal,S
+athelete.jpg,Bronze Medal,B
+clock1.jpg,Clock,C
+clock1.jpg,Alarm,A
+clock1.jpg,Wake up,W
+clock1.jpg,Hour,H
+clock1.jpg,Minute,M
+clock1.jpg,Seconds,S
+clock1.jpg,Analog,A
+clock1.jpg,Digital,D
+clock1.jpg,Ring,R
+clock1.jpg,Morning,M
+clock1.jpg,Afternoon,A
+clock1.jpg,Midnight,M
+clock1.jpg,Evening,E
+rings.jpg,Rings,R
+rings.jpg,Gems,G
+rings.jpg,Jewellery,J
+rings.jpg,Opal,O
+rings.jpg,Silver,S
+rings.jpg,Gold,G
+rings.jpg,Platinum,P
+rings.jpg,Topaz,T
+rings.jpg,Sapphire,S
+rings.jpg,Ruby,R
+rings.jpg,Fingers,F
