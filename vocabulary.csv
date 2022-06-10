@@ -1,4 +1,8 @@
 file_name,picture_word,first_letter
+lavender_dog.jpg,Allergy,A
+lavender_dog.jpg,Agriculture,A
+lavender_dog.jpg,Golden Retriever,G
+lavender_dog.jpg,Perfume,P
 lavender_dog.jpg,Trees,T
 lavender_dog.jpg,Dog,D
 lavender_dog.jpg,Labrador,L
@@ -8,6 +12,9 @@ lavender_dog.jpg,Fields,F
 lavender_dog.jpg,Basket,B
 lavender_dog.jpg,Animal,A
 chirstmas2.jpg,Tree,T
+chirstmas2.jpg,Yule,Y
+chirstmas2.jpg,Tinsel,T
+chirstmas2.jpg,Garland,G
 chirstmas2.jpg,Christmas,C
 chirstmas2.jpg,Stockings,S
 chirstmas2.jpg,Lamp,L
@@ -18,6 +25,9 @@ chirstmas2.jpg,Hearth,H
 chirstmas2.jpg,Decorations,D
 chirstmas2.jpg,Red,R
 chirstmas2.jpg,Candles,C
+pride.jpg,Courage,C
+pride.jpg,Empathy,E
+pride.jpg,Thumb,T
 pride.jpg,Diversity,D
 pride.jpg,Inclusion,I
 pride.jpg,Ally,A
@@ -196,9 +206,10 @@ iceberg.jpg,Glacier,G
 iceberg.jpg,Water,W
 iceberg.jpg,Ocean,O
 iceberg.jpg,Artic,A
-supermarket.jpg,Supermarket,S
+supermarket.jpg,Stack,S
 supermarket.jpg,Shop,S
 supermarket.jpg,Walmart,W
+supermarket.jpg,Supermarket,S
 supermarket.jpg,Tesco,T
 supermarket.jpg,Sainsburys,S
 supermarket.jpg,Morrisons,M
@@ -209,6 +220,10 @@ supermarket.jpg,Cereal,C
 supermarket.jpg,Lights,L
 supermarket.jpg,Trolley,T
 supermarket.jpg,Sale,S
+baby1.jpg,Throw,T
+baby1.jpg,Arm,A
+baby1.jpg,Wrinkled Skin,W
+baby1.jpg,Pail,P
 baby1.jpg,Baby,B
 baby1.jpg,Bucket,B
 baby1.jpg,Jug,J
@@ -218,6 +233,13 @@ baby1.jpg,Happy,H
 baby1.jpg,Naughty,N
 baby1.jpg,Naked,N
 baby1.jpg,Bath,B
+laptop.jpg,Intel,I
+laptop.jpg,Internet,I
+laptop.jpg,Google,G
+laptop.jpg,Applications,A
+laptop.jpg,Browser,B
+laptop.jpg,Yahoo,Y
+laptop.jpg,Restart,R
 laptop.jpg,Memory,M
 laptop.jpg,Working,W
 laptop.jpg,Phone,P
@@ -244,6 +266,8 @@ friends_eating.jpg,Salt,S
 friends_eating.jpg,Pepper,P
 friends_eating.jpg,Bill,B
 friends_eating.jpg,Waiter,W
+berry_smoothie.jpg,Juice,J
+berry_smoothie.jpg,Milkshake,M
 berry_smoothie.jpg,Berries,B
 berry_smoothie.jpg,Straw,S
 berry_smoothie.jpg,Cold,C
@@ -255,13 +279,15 @@ berry_smoothie.jpg,Refreshing,R
 berry_smoothie.jpg,Healthy,H
 berry_smoothie.jpg,Glass,G
 berry_smoothie.jpg,Pink,P
+iphone.jpg,Music,M
+iphone.jpg,Electronic,E
+iphone.jpg,Netword,N
 iphone.jpg,Unlock,U
 iphone.jpg,Android,A
 iphone.jpg,Camera,C
 iphone.jpg,Screen,S
 iphone.jpg,Charger,C
 iphone.jpg,Messaging,M
-iphone.jpg,Music,M
 iphone.jpg,Apps,A
 iphone.jpg,Games,G
 iphone.jpg,Phone,P
@@ -340,8 +366,11 @@ fireworks2.jpg,Fireworks,F
 fireworks2.jpg,Crackers,C
 fireworks2.jpg,Diwali,D
 fireworks2.jpg,Celebration,C
-fireworks2.jpg,Guy Fawkes,G
+fireworks2.jpg,Gathering,G
 fireworks2.jpg,New Year,N
+fireworks2.jpg,Bang,B
+fireworks2.jpg,Display,D
+fireworks2.jpg,Guy Fawkes,G
 fireworks2.jpg,Burst,B
 fireworks2.jpg,Detonate,D
 fireworks2.jpg,Explode,E
@@ -357,6 +386,10 @@ violin_music.jpg,Concert,C
 violin_music.jpg,School,S
 violin_music.jpg,Notes,N
 violin_music.jpg,Opera,O
+violin_music.jpg,Yanni,Y
+violin_music.jpg,Vivaldi,V
+violin_music.jpg,Beethoven,B
+violin_music.jpg,Chopin,C
 violin_music.jpg,Orchestra,O
 violin_music.jpg,Sound,S
 violin_music.jpg,Performance,P
@@ -429,7 +462,6 @@ grandma.jpg,Grandma,G
 grandma.jpg,Carrots,C
 grandma.jpg,Vegetables,V
 grandma.jpg,Water,W
-grandma.jpg,Tap,T
 grandma.jpg,Kitchen,K
 grandma.jpg,Faucet,F
 grandma.jpg,Cleaning,C
@@ -734,3 +766,16 @@ rings.jpg,Topaz,T
 rings.jpg,Sapphire,S
 rings.jpg,Ruby,R
 rings.jpg,Fingers,F
+ice_cream2.jpg,Variety,V
+olympics.jpg,Olympics,O
+olympics.jpg,Rings,R
+olympics.jpg,Games,G
+olympics.jpg,Sports,S
+olympics.jpg,Bronze Medal,B
+olympics.jpg,Gold Medal,G
+rings.jpg,Thumb,T
+rings.jpg,Wrist,W
+rings.jpg,Jumper,J
+rings.jpg,Sweater,S
+rings.jpg,Nails,N
+rings.jpg,Ornaments,O
