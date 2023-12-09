@@ -82,12 +82,15 @@ yoga.jpg,People,P
 yoga.jpg,Sweat,S
 iliad_homer_greek.jpg,Iliad,I
 iliad_homer_greek.jpg,Homer,H
-iliad_homer_greek.jpg,Odyssey,O
-iliad_homer_greek.jpg,Mythology,M
-iliad_homer_greek.jpg,Greek,G
+iliad_homer_greek.jpg,Poem,P
+iliad_homer_greek.jpg,History,H
+iliad_homer_greek.jpg,Tragedy,T
 iliad_homer_greek.jpg,Zeus,Z
 iliad_homer_greek.jpg,Athena,A
 iliad_homer_greek.jpg,Trojan War,T
+iliad_homer_greek.jpg,Odyssey,O
+iliad_homer_greek.jpg,Mythology,M
+iliad_homer_greek.jpg,Greek,G
 iliad_homer_greek.jpg,Hector,H
 iliad_homer_greek.jpg,Achilles,A
 iliad_homer_greek.jpg,Paris,P
@@ -499,10 +502,13 @@ universe.jpg,Cosmos,C
 universe.jpg,Celestial,C
 eclipse.jpg,Penumbra,P
 eclipse.jpg,Umbra,U
-universe.jpg,Asteroids,A
-universe.jpg,Atmosphere,A
-universe.jpg,Black Hole,B
+universe.jpg,Supernova,S
+universe.jpg,Astronomy,A
+universe.jpg,Moon,M
 universe.jpg,Comet,C
+universe.jpg,Asteroids,A
+universe.jpg,Solar System,S
+universe.jpg,Black Hole,B
 universe.jpg,Nebula,N
 universe.jpg,Nova,N
 universe.jpg,Quasar,Q
@@ -771,10 +777,18 @@ rings.jpg,Rings,R
 rings.jpg,Gems,G
 rings.jpg,Jewellery,J
 rings.jpg,Opal,O
+rings.jpg,Stone,S
+rings.jpg,Expensive,E
+rings.jpg,Emerald,E
+rings.jpg,Topaz,T
+rings.jpg,Diamond,D
+rings.jpg,Woman,W
 rings.jpg,Silver,S
+rings.jpg,Lady,L
+rings.jpg,Turquoise,T
+rings.jpg,Quartz,Q
 rings.jpg,Gold,G
 rings.jpg,Platinum,P
-rings.jpg,Topaz,T
 rings.jpg,Sapphire,S
 rings.jpg,Ruby,R
 rings.jpg,Fingers,F
@@ -790,7 +804,7 @@ rings.jpg,Wrist,W
 rings.jpg,Jumper,J
 rings.jpg,Sweater,S
 rings.jpg,Nails,N
-rings.jpg,Ornaments,O
+rings.jpg,Ornament,O
 family2.jpg,Family,F
 family2.jpg,Lawn,L
 family2.jpg,Dog,D
@@ -820,7 +834,7 @@ family2.jpg,Green,G
 family2.jpg,Yard,Y
 family2.jpg,Outdoor,O
 phone_apps.jpg,Apps,A
-phone_apps.jpg,iPhone,I
+phone_apps.jpg,iPhone,i
 phone_apps.jpg,Battery,B
 phone_apps.jpg,Electronic,E
 phone_apps.jpg,Facebook,F
@@ -931,8 +945,6 @@ car_trees.jpg,Drive,D
 car_trees.jpg,Autumn,A
 car_trees.jpg,German,G
 car_trees.jpg,Tyre,T
-car_trees.jpg,Black,B
-car_trees.jpg,Drive,D
 currency.jpg,Money,M
 currency.jpg,Currency,C
 currency.jpg,Notes,N
@@ -970,7 +982,6 @@ gym1.jpg,Dumbbells,D
 gym1.jpg,Workout,W
 gym1.jpg,Sweat,S
 gym1.jpg,Health,H
-gym1.jpg,Push up,P
 gym1.jpg,Physical,P
 gym1.jpg,Coach,C
 gym1.jpg,Man,M
