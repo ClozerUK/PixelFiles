@@ -1,5 +1,5 @@
 ﻿file_name,picture_word,first_letter
-lavender_dog.jpg,Allergy,A
+lavender_dog.jpg,Terrier,T
 lavender_dog.jpg,Agriculture,A
 lavender_dog.jpg,Golden Retriever,G
 lavender_dog.jpg,Perfume,P
@@ -89,6 +89,9 @@ iliad_homer_greek.jpg,Zeus,Z
 iliad_homer_greek.jpg,Athena,A
 iliad_homer_greek.jpg,Trojan War,T
 iliad_homer_greek.jpg,Hector,H
+iliad_homer_greek.jpg,Jason,J
+iliad_homer_greek.jpg,Perseus,P
+iliad_homer_greek.jpg,Ajax,A
 iliad_homer_greek.jpg,Achilles,A
 iliad_homer_greek.jpg,Paris,P
 iliad_homer_greek.jpg,Hera,H
@@ -481,9 +484,7 @@ eclipse.jpg,Jupiter,J
 eclipse.jpg,Ring,R
 eclipse.jpg,Solar,S
 eclipse.jpg,Planets,P
-eclipse.jpg,Jupiter,J
 eclipse.jpg,Eclipse,E
-eclipse.jpg,Venus,V
 eclipse.jpg,Lunar,L
 eclipse.jpg,Moon,M
 eclipse.jpg,Sun,S
